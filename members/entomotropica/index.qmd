@@ -1,0 +1,25 @@
+---
+title: Entomotrópica
+---
+:::: columns
+::: column
+ENTOMOTROPICA es la revista científica oficial de la Sociedad Venezolana de Entomología. Es una revista electrónica de acceso abierto y arbitrada por pares de forma anónima.
+
+Desde su fundación este órgano de publicación se posicionó como una revista líder en el campo de la entomología en América Latina  y cuyo principal objetivo ha  sido  servir como plataforma para la divulgación de los avances científicos en el campo de la entomología tropical.
+
+ENTOMOTROPICA considera para su publicación contribuciones relacionadas con la entomología neotropical, especialmente en taxonomía, ecología, fisiología, morfología, biología, biodiversidad, plagas agrícolas y de salud pública, control químico, biológico y manejo integrado. Excepcionalmente puede atender solicitudes de publicación sobre temas relacionados con las clases Entognata (Parainsecta) y Arachnida  y el subphyla Myriapoda.
+:::
+::: column
+
+
+|                                               |                                                                   |
+|-------------------------------|-----------------------------------------|
+| Sitio web                                     | [saber.ucv.ve/ojs/index.php/rev_ento](http://saber.ucv.ve/ojs/index.php/rev_ento) |
+| Año de lanzamiento                            | 1941                                                              |
+| Tipo de acceso abierto                        |  Diamante                                     |
+| Idiomas de publiación                         | Español                                                   |
+| {{< ai doi >}} Asigna DOI:                    | <span style="color:red"> {{< fa circle-xmark color=#ff0000 >}}</span>                             |
+| {{< ai orcid color=#b2c046 >}} Colecta ORCID: | <span style="color:green">{{< fa circle-check color=#008000 >}}</span>                             |
+|                                               |                                                                   |
+:::
+::::

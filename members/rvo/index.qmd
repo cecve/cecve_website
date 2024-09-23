@@ -1,0 +1,20 @@
+---
+title: Revista Venezolana de Ornitología
+---
+:::: columns
+::: column
+La Revista Venezolana de Ornitología es una revista electrónica arbitrada que acepta artículos originales en extenso, notas y resúmenes de tesis de investigaciones científicas sobre aves silvestres Neotropicales.
+:::
+::: column
+
+|                                               |                                                                   |
+|-------------------------------|-----------------------------------------|
+| Sitio web                                     | [https://uvovenezuela.org/instrucciones-a-los-autores/o](https://uvovenezuela.org/instrucciones-a-los-autores/) |
+| Año de lanzamiento                            | 19xx                                                              |
+| Tipo de acceso abierto                        |  Diamante                                     |
+| Idiomas de publiación                         | Español, Inglés                                                   |
+| {{< ai doi >}} Asigna DOI:                    | <span style="color:red"> {{< fa circle-xmark color=#ff0000 >}}</span>                             |
+| {{< ai orcid color=#b2c046 >}} Colecta ORCID: | <span style="color:green">{{< fa circle-check color=#008000 >}}</span>                             |
+|                                               |                                                                   |
+:::
+::::

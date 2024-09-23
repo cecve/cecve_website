@@ -1,0 +1,26 @@
+---
+title: Ecotrópicos
+categories: [Ecología general, Ecología tropical]
+url: https://ecotropicos.svecologia.org/
+---
+
+:::: columns
+::: column
+Ecotropicos es la revista científica de Sociedad Venezolana de Ecología. Nuestra misión es fomentar el bienestar de las sociedades en las próximas décadas a través del conocimiento ecológico. Aspiramos a ser un puente entre la comunidad internacional de ecólogos, los tomadores de decisiones y la sociedad civil, promoviendo la apertura del conocimiento y asegurando que la información científica más avanzada esté accesible para construir soluciones sustentadas en la mejor ciencia disponible.
+
+Utilizamos la comunicación científica como un mecanismo para empoderar a la comunidad académica, abriendo las oportunidades de publicación en diversas disciplinas ecológicas. Nos comprometemos a garantizar la transparencia, fomentar la innovación y alentar la participación activa tanto de investigadores consolidados como de las nuevas generaciones en formación.
+:::
+::: column
+![](https://ecotropicos.svecologia.org/public/journals/1/pageHeaderLogoImage_en.png)
+
+|                                               |                                                                   |
+|-------------------------------|-----------------------------------------|
+| Sitio web                                     | [ecotropicos.svecologia.org](https://ecotropicos.svecologia.org/) |
+| Año de lanzamiento                            | 1988                                                              |
+| Tipo de acceso abierto                        | {{< fa solid gem >}} Diamante                                     |
+| Idiomas de publiación                         | Español, Inglés                                                   |
+| {{< ai doi >}} Asigna DOI:                    | {{< fa circle-check color=#b2c046 >}}                             |
+| {{< ai orcid color=#b2c046 >}} Colecta ORCID: | {{< fa circle-check color=#b2c046 >}}                             |
+|                                               |                                                                   |
+:::
+::::
