@@ -10,7 +10,7 @@
 <atom:link href="https://luismmontilla.github.io/cecve_website/members.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.55</generator>
-<lastBuildDate>Wed, 25 Sep 2024 23:44:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 02 Oct 2024 18:56:24 GMT</lastBuildDate>
 <item>
   <title>Ecotrópicos</title>
   <link>https://luismmontilla.github.io/cecve_website/members/ecotropicos/</link>
@@ -21,15 +21,15 @@
 
 <div class="columns">
 <div class="column">
-<p>Ecotropicos es la revista científica de Sociedad Venezolana de Ecología. Nuestra misión es fomentar el bienestar de las sociedades en las próximas décadas a través del conocimiento ecológico. Aspiramos a ser un puente entre la comunidad internacional de ecólogos, los tomadores de decisiones y la sociedad civil, promoviendo la apertura del conocimiento y asegurando que la información científica más avanzada esté accesible para construir soluciones sustentadas en la mejor ciencia disponible.</p>
+<p>Ecotropicos <a href="https://portal.issn.org/resource/ISSN/2521-9707">(ISSN 2521-9707)</a> es la revista científica de Sociedad Venezolana de Ecología. Nuestra misión es fomentar el bienestar de las sociedades en las próximas décadas a través del conocimiento ecológico. Aspiramos a ser un puente entre la comunidad internacional de ecólogos, los tomadores de decisiones y la sociedad civil, promoviendo la apertura del conocimiento y asegurando que la información científica más avanzada esté accesible para construir soluciones sustentadas en la mejor ciencia disponible.</p>
 <p>Utilizamos la comunicación científica como un mecanismo para empoderar a la comunidad académica, abriendo las oportunidades de publicación en diversas disciplinas ecológicas. Nos comprometemos a garantizar la transparencia, fomentar la innovación y alentar la participación activa tanto de investigadores consolidados como de las nuevas generaciones en formación.</p>
 </div><div class="column">
 <p><img src="https://ecotropicos.svecologia.org/public/journals/1/pageHeaderLogoImage_en.png" class="img-fluid"></p>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
-<td>Sitio web</td>
-<td><a href="https://ecotropicos.svecologia.org/">ecotropicos.svecologia.org</a></td>
+<td><i class="fa-solid fa-globe" aria-label="globe"></i> <a href="https://ecotropicos.svecologia.org/">Web oficial</a></td>
+<td><a href="https://portal.issn.org/resource/ISSN/2521-9707">Indizaciones</a></td>
 </tr>
 <tr class="even">
 <td>Año de lanzamiento</td>
@@ -66,7 +66,7 @@
   <category>Ecología general</category>
   <category>Ecología tropical</category>
   <guid>https://luismmontilla.github.io/cecve_website/members/ecotropicos/</guid>
-  <pubDate>Wed, 25 Sep 2024 23:44:19 GMT</pubDate>
+  <pubDate>Wed, 02 Oct 2024 18:56:24 GMT</pubDate>
 </item>
 <item>
   <title>Entomotrópica</title>
@@ -78,15 +78,15 @@
 
 <div class="columns">
 <div class="column">
-<p>ENTOMOTROPICA es la revista científica oficial de la Sociedad Venezolana de Entomología. Es una revista electrónica de acceso abierto y arbitrada por pares de forma anónima.</p>
+<p>ENTOMOTROPICA <a href="https://portal.issn.org/resource/ISSN/2443-437X">(ISSN 2243-437X)</a> es la revista científica oficial de la Sociedad Venezolana de Entomología. Es una revista electrónica de acceso abierto y arbitrada por pares de forma anónima.</p>
 <p>Desde su fundación este órgano de publicación se posicionó como una revista líder en el campo de la entomología en América Latina y cuyo principal objetivo ha sido servir como plataforma para la divulgación de los avances científicos en el campo de la entomología tropical.</p>
 <p>ENTOMOTROPICA considera para su publicación contribuciones relacionadas con la entomología neotropical, especialmente en taxonomía, ecología, fisiología, morfología, biología, biodiversidad, plagas agrícolas y de salud pública, control químico, biológico y manejo integrado. Excepcionalmente puede atender solicitudes de publicación sobre temas relacionados con las clases Entognata (Parainsecta) y Arachnida y el subphyla Myriapoda.</p>
 </div><div class="column">
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
-<td>Sitio web</td>
-<td><a href="http://saber.ucv.ve/ojs/index.php/rev_ento">saber.ucv.ve/ojs/index.php/rev_ento</a></td>
+<td><i class="fa-solid fa-globe" aria-label="globe"></i> <a href="http://saber.ucv.ve/ojs/index.php/rev_ento">Web oficial</a></td>
+<td><a href="https://portal.issn.org/resource/ISSN/2443-437X">Indizaciones</a></td>
 </tr>
 <tr class="even">
 <td>Año de lanzamiento</td>
@@ -121,7 +121,7 @@
 
  ]]></description>
   <guid>https://luismmontilla.github.io/cecve_website/members/entomotropica/</guid>
-  <pubDate>Wed, 25 Sep 2024 23:44:19 GMT</pubDate>
+  <pubDate>Wed, 02 Oct 2024 18:56:24 GMT</pubDate>
 </item>
 <item>
   <title>Revista Venezolana de Ornitología</title>
@@ -133,13 +133,14 @@
 
 <div class="columns">
 <div class="column">
-<p>La Revista Venezolana de Ornitología es una revista electrónica arbitrada que acepta artículos originales en extenso, notas y resúmenes de tesis de investigaciones científicas sobre aves silvestres Neotropicales.</p>
+<p>La Revista Venezolana de Ornitología <a href="https://portal.issn.org/resource/ISSN/2244-8411">(ISSN 2244-8411)</a> es una revista electrónica arbitrada que acepta artículos originales en extenso, notas y resúmenes de tesis de investigaciones científicas sobre aves silvestres Neotropicales.</p>
 </div><div class="column">
+<p><img src="https://luismmontilla.github.io/cecve_website/members/rvo/logo.png" class="img-fluid"></p>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
-<td>Sitio web</td>
-<td><a href="https://uvovenezuela.org/instrucciones-a-los-autores/">https://uvovenezuela.org/instrucciones-a-los-autores/o</a></td>
+<td><i class="fa-solid fa-globe" aria-label="globe"></i> <a href="https://uvovenezuela.org/volumenes/">Web oficial</a></td>
+<td><a href="https://portal.issn.org/resource/ISSN/2244-8411">Indizaciones</a></td>
 </tr>
 <tr class="even">
 <td>Año de lanzamiento</td>
@@ -173,8 +174,9 @@
 
 
  ]]></description>
+  <category>Ornitología neotropical</category>
   <guid>https://luismmontilla.github.io/cecve_website/members/rvo/</guid>
-  <pubDate>Wed, 25 Sep 2024 23:44:19 GMT</pubDate>
+  <pubDate>Wed, 02 Oct 2024 18:56:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
